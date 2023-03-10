@@ -1,2 +1,2 @@
 #!/bin/bash
-mplayer -vo caca star_wars_iv.mp4
+mplayer -vo caca Star_Wars_iv.mp4
